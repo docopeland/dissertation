@@ -9,6 +9,6 @@ treatment and control group. DiD recognizes the fact that bias exists in the tre
 - proposal
 - data
 - EDA
-- presentation
-- full dissertation 
+- full dissertation
+- presentation 
 - R scripts
